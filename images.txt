@@ -5,4 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/amd64 ubuntu:24.10
+#--platform=linux/amd64 ubuntu:24.10
+
+# 20250105
+--platform=linux/amd64 apache/rocketmq:5.2.0
