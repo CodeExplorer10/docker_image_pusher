@@ -9,5 +9,5 @@
 
 # 20250105
 # --platform=linux/amd64 apache/rocketmq:5.2.0
---platform=linux/amd64 aapacherocketmq/rocketmq-dashboard:latest
---platform=linux/amd64 xuchengen/rocketmq
+#--platform=linux/amd64 aapacherocketmq/rocketmq-dashboard:latest
+--platform=linux/amd64 xuchengen/rocketmq:5.1.3
