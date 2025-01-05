@@ -8,4 +8,6 @@
 #--platform=linux/amd64 ubuntu:24.10
 
 # 20250105
---platform=linux/amd64 apache/rocketmq:5.2.0
+# --platform=linux/amd64 apache/rocketmq:5.2.0
+--platform=linux/amd64 aapacherocketmq/rocketmq-dashboard:latest
+--platform=linux/amd64 xuchengen/rocketmq
